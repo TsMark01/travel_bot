@@ -2,9 +2,8 @@
 
 ## 📋 Project Overview
 
-This Telegram bot helps you explore cities around the world and their attractions. It also provides weather information and an engaging quiz. The bot is entirely my own work, developed as part of my CS projects.
+This Telegram bot helps you explore cities around the world and their attractions. It also provides weather information and an engaging quiz. The bot is entirely my own work, developed as part of my CS projects. It was my project at yandex hackathon.
 
-Telegram Bot Link: [Click Here](https://t.me/your_bot_username)
 
 ## 🎯 Key Objectives
 - Provide city attractions, history, and restaurant recommendations.
@@ -94,6 +93,6 @@ Telegram Bot Link: [Click Here](https://t.me/your_bot_username)
 - Integrate maps or images.
 - Support multiple languages.
 
-## 📝 Contributing
+
 
 Fork and PR suggestions!
